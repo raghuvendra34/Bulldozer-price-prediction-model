@@ -31,21 +31,6 @@ The project will follow a standard machine learning workflow:
 6. Model evaluation
 7. Prediction generation
 
-## 📁 Project Structure
-```
-bulldozer-price-prediction/
-├── data/
-│   ├── Train.csv
-│   ├── Valid.csv
-│   └── Test.csv
-├── notebooks/
-│   └── bulldozer-price-prediction.ipynb
-├── models/
-│   └── (trained model files)
-├── src/
-│   └── (utility functions)
-└── README.md
-```
 
 ## 🚀 Getting Started
 1. Clone this repository
